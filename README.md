@@ -2,8 +2,8 @@
 udangtangtang study😎<br></br>  
   
 <details>
-  <div markdown=1>
   <summary>우와아아아아앙</summary>
+  <div markdown=1>
     YEEEEEEEEEEE
   </div></details>  
 <br></br>  
